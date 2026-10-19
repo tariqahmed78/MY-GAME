@@ -1,0 +1,6 @@
+{
+  "name": "Arrow Escape",
+  "description": "Minimalist spatial logic maze game where players guide the single movable arrow through stationary mazes and obstacles to reach the exit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
